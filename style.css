@@ -1,0 +1,73 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+.container{
+  width: 800px;
+  margin: auto;
+  padding: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px 10px 10px 10px;
+}
+
+header .logo{
+    width: 200px;
+    display: block;
+    padding-left: 300px;
+    padding-bottom: 10px;
+}
+
+header .logo-text{
+  font-size: 25px;
+  color: #39ff14;
+  display: block;
+  padding-left: 250px;
+  padding-bottom: 10px;
+}
+
+div .barra{
+  background-color: #39ff14;
+  height: 40px;
+    text-align: center;
+}
+
+div .button{
+  margin:10px;
+}
+
+main .titolini{
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+main .noleggio{
+  padding-top: 15px;
+}
+
+main .interno{
+  font-size: 15px;
+  color:white;
+  display: block;
+}
+
+main .barracarica1{
+  background-color: orange;
+  height: 25px;
+  width: 200px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+main .barracarica2{
+  background-color: lime;
+  height: 25px;
+  width: 400px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+main .barracarica3{
+  background-color: red;
+  height: 25px;
+  width: 100px;
+  border-radius: 5px 5px 5px 5px;
+}
